@@ -1,6 +1,6 @@
 # video_game_aggregator
 
-Learn to Build a Video Game Aggregator with IGDB Data
+A Video Game Aggregator with IGDB Data
 
 
 ## Installation
